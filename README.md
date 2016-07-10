@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/shihanng/appengine-flask.svg?branch=master)](https://travis-ci.org/shihanng/appengine-flask)
+
 A basic working skeleton for Python applications with
 [Flask](http://flask.pocoo.org/) on
 [Google App Engine](https://cloud.google.com/appengine/).
