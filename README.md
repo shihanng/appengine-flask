@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/shihanng/appengine-flask.svg?branch=master)](https://travis-ci.org/shihanng/appengine-flask)
+[![Coverage Status](https://coveralls.io/repos/github/shihanng/appengine-flask/badge.svg?branch=master)](https://coveralls.io/github/shihanng/appengine-flask?branch=master)
 
 A basic working skeleton for Python applications with
 [Flask](http://flask.pocoo.org/) on
